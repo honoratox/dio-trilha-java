@@ -1,6 +1,6 @@
 # dio-trilha-java
 
-# Repositório de Estudos Java / Java Study Repository
+## Repositório de Estudos Java / Java Study Repository
 
 ## Português
 
